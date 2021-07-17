@@ -10,7 +10,7 @@
 #### In this project we learned the [Pytorch](https://github.com/vtanmay3103/Deep-dive-into-CNN--SOC/tree/main/Pytorch) library for implementing the neural networks. 
 
 ## 3 CNN & It's Architectures
-#### This week started with learning the fundamental concepts of CNN .
+#### Then started learning the fundamental concepts of CNN .
 #### After that implementing the CNN from scratch using Pytorch on a kaggle challenge [Digit Recognizer](https://github.com/vtanmay3103/Deep-dive-into-CNN--SOC/blob/main/CNN/Digit%20recognizer%20CNN%20model.ipynb) 
 #### Reading the [research papers](https://github.com/vtanmay3103/Deep-dive-into-CNN--SOC/tree/main/Research%20Papers) of different architectures of CNN - AlexNet, VggNet, ResNet, GoogleNet
 
