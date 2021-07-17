@@ -12,7 +12,7 @@
 ## 3
 #### This week started with learning the fundamental concepts of CNN .
 #### After that implementing the CNN from scratch using Pytorch on a kaggle challenge [Digit Recognizer](https://github.com/vtanmay3103/Deep-dive-into-CNN--SOC/blob/main/CNN/Digit%20recognizer%20CNN%20model.ipynb) 
-#### Reading the research papers of different architectures of CNN - AlexNet, VggNet, ResNet, GoogleNet
+#### Reading the [research papers](https://github.com/vtanmay3103/Deep-dive-into-CNN--SOC/tree/main/Research%20Papers) of different architectures of CNN - AlexNet, VggNet, ResNet, GoogleNet
 
 ## 4
 #### Implementing the [AlexNet architecture](https://github.com/vtanmay3103/Deep-dive-into-CNN--SOC/blob/main/CNN/Alexnet_Fashion_MNIST.ipynb) from scratch on the dataset Fashion MNIST 
